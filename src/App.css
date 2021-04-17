@@ -1,6 +1,17 @@
 .App {
   text-align: center;
 }
+.celda{
+  border: 1px solid black;
+}
+.celda-reservada{
+  border: 1px solid black;
+  background-color:red;
+}
+.celda-disponible{
+  background-color:green;
+  border: 1px solid black;
+}
 
 .App-logo {
   height: 40vmin;
